@@ -6,7 +6,7 @@
 Overview:
 </h2>
 
-The IPL Dashboard offers a comprehensive view of IPL match statistics, including team performance, player statistics, match results, and more. It enables users to gain valuable insights into player performance, team dynamics, and trends across different IPL seasons.
+The IPL Dashboard offers a comprehensive view of IPL match statistics. It enables users to gain valuable insights into player performance, team dynamics, and trends across different IPL seasons.
 Features
 
     Interactive visualizations for exploring match data
